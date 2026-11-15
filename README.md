@@ -4,6 +4,10 @@ A little space for my experiments, tools and other bits and pieces for the **Pol
 
 With Polyend opening up the Tracker software, I wanted to make a place to share some of the things I create and discover while exploring what can be done with it.
 
+## Polyend Tracker Community Edition
+
+The open-source Tracker project is available here: [Polyend Tracker CE](https://github.com/polyend/tracker-ce).
+
 ## What's planned?
 
 I'm hoping to put together a few **`.ptfx` files** soon, along with any other useful tidbits that come out of experimenting with the Tracker.
