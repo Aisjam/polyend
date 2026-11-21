@@ -1,0 +1,3 @@
+[submodule "polyendtracker_effects"]
+	path = polyendtracker_effects
+	url = https://github.com/Aisjam/polyendtracker_effects.git
